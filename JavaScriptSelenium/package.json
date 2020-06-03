@@ -1,0 +1,23 @@
+{
+  "name": "JavaScriptSelenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^6.1.16",
+    "@wdio/local-runner": "^6.1.14",
+    "@wdio/sync": "^6.1.14",
+    "chromedriver": "^83.0.0",
+    "webdriverio": "^6.1.14"
+  },
+  "devDependencies": {
+    "@wdio/junit-reporter": "^6.1.14",
+    "@wdio/mocha-framework": "^6.1.14"
+  }
+}

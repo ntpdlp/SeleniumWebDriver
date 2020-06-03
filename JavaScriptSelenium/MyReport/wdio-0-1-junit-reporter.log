@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="API_Learning" timestamp="2020-06-02T23:37:49" time="2.38" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="API Learning"/>
+      <property name="capabilities" value=""/>
+      <property name="file" value="./wdioAPI/api_waitfor.js"/>
+    </properties>
+    <testcase classname=".API_Learning" name="TC_waitFor" time="2.379"/>
+  </testsuite>
+</testsuites>

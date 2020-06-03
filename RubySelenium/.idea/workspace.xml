@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9270b40-91a6-4711-b074-e44e9d2efac3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObject/WebPageNavigation.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObject/users_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBasic/WebPageNavigation.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebPageNavigation.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloRuby.rb" beforeDir="false" afterPath="$PROJECT_DIR$/RubyBasic/helloRuby.rb" afterDir="false" />
-    </list>
+    <list default="true" id="b9270b40-91a6-4711-b074-e44e9d2efac3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590783503285</updated>
       <workItem from="1590783508705" duration="12155000" />
-      <workItem from="1590892120380" duration="3847000" />
+      <workItem from="1590892120380" duration="4042000" />
     </task>
     <servers />
   </component>
