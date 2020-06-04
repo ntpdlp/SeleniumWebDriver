@@ -2,11 +2,13 @@ exports.config = {
 
     //specs
     specs: [
-    //  "wdioAPI/api_setValue.js",
-    //     "wdioAPI/api_waitfor.js",   
+    // "wdioAPI/api_setValue.js",
+    // "wdioAPI/api_waitfor.js",   
         // "wdioAPI/api_click.js",
         // "wdioAPI/api_selectBy.js",
-        "wdioAPI/api_getText.js"
+        // "wdioAPI/api_getText.js",
+        // "wdioAPI/api_getUrl.js",
+        "wdioAPI/api_getAlertText.js"
     ],
 
     //host

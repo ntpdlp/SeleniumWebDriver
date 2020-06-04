@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="API_Learning" timestamp="2020-06-03T06:21:24" time="0.954" tests="1" failures="0" errors="0" skipped="0">
+  <testsuite name="API_Learning" timestamp="2020-06-03T10:32:02" time="3.314" tests="1" failures="0" errors="0" skipped="0">
     <properties>
       <property name="specId" value="0"/>
       <property name="suiteName" value="API Learning"/>
       <property name="capabilities" value=""/>
-      <property name="file" value="./wdioAPI/api_getText.js"/>
+      <property name="file" value="./wdioAPI/api_getAlertText.js"/>
     </properties>
-    <testcase classname=".API_Learning" name="TC_getText" time="0.954"/>
+    <testcase classname=".API_Learning" name="TC_AlertDialog" time="3.313"/>
   </testsuite>
 </testsuites>
